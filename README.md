@@ -6,6 +6,8 @@
 
 📫 Reach me on [twitter](https://twitter.com/mahdi_perfect)
 
+[![wakatime](https://wakatime.com/badge/user/d1a12c83-87ee-449f-940c-70cd406288fb.svg)](https://wakatime.com/@d1a12c83-87ee-449f-940c-70cd406288fb)
+
 <!--
 **mahdi13/mahdi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
