@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 Working on [stawallet](https://github.com/stawallet) and [stacrypt](https://github.com/stacrypt)
-
 🌱 Learning **Rust**
 
 📫 Reach me on [twitter](https://twitter.com/mahdi_perfect)
